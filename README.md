@@ -12,6 +12,9 @@ Dataset consists of 400 images of 360 people. We hired 20 prticipants to answer 
   title={Interactive Natural Language-based Person Search},
   author={Shree, Vikram and Chao, Wei-Lun and Campbell, Mark},
   journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={2},
+  pages={1851--1858},
   year={2020},
   publisher={IEEE}
 }
