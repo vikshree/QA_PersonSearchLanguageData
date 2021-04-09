@@ -1,5 +1,6 @@
 # QA_PersonSearchLanguageData
 This repo consists of the QA dataset collected for performing person search with natural language.
+[Here](https://arxiv.org/pdf/2002.08434.pdf) is the link to our paper.
 
 ## About the dataset
 We created a dataset for person search that consists of specific questions and answers about appearance of person images. All the images have been taken from the test set of CUHK-PEDES dataset, available from https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description.
